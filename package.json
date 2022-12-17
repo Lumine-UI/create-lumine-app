@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "description": "An npx command that sets up a new Lumine UI app",
   "keywords": ["lumine", "ui", "lumine-ui", "react-native", "typescript", "javascript", "npx", "android", "ios"],
-  "author": "Siddhesh Kothadi",
+  "repository": "https://github.com/Lumine-UI/lumine-ui",
+  "author": "Siddhesh Kothadi <siddhesh.kt@gmail.com> (https://siddheshkothadi.me)",
   "bin": {
     "create-lumine-app": "./bin/setup-lumine.sh"
+  },
+  "bugs": {
+    "url": "https://github.com/Lumine-UI/create-lumine-app/issues"
+  },
+  "homepage": "https://lumineui.vercel.app/",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "license": "MIT"
 }
