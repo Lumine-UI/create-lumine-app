@@ -1,9 +1,9 @@
 {
   "name": "create-lumine-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npx command that sets up a new Lumine UI app",
   "keywords": ["lumine", "ui", "lumine-ui", "react-native", "typescript", "javascript", "npx", "android", "ios"],
-  "repository": "https://github.com/Lumine-UI/lumine-ui",
+  "repository": "https://github.com/Lumine-UI/create-lumine-app",
   "author": "Siddhesh Kothadi <siddhesh.kt@gmail.com> (https://siddheshkothadi.me)",
   "bin": {
     "create-lumine-app": "./bin/setup-lumine.sh"
