@@ -1,6 +1,7 @@
 # create-lumine-app
 
-This is a CLI tool to create a new Lumine application for React Native Expo.
+This package can be used to create a new Lumine application for React Native Expo.
+Run the following command in `git bash` (on Windows) or normal terminal (on Linux or Mac) to create a new Lumine application.
 
 ```
 npx create-lumine-app <project-name>
