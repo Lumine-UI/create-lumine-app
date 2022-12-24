@@ -1,6 +1,6 @@
 {
   "name": "create-lumine-app",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npx command that sets up a new Lumine UI app",
   "keywords": ["lumine", "ui", "lumine-ui", "react-native", "typescript", "javascript", "npx", "android", "ios"],
   "repository": "https://github.com/Lumine-UI/create-lumine-app",
